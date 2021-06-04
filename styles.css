@@ -1,0 +1,131 @@
+
+body{
+  background-color:gray;
+  background-color: hsl(204, 43%, 93%);
+  margin: 0;
+font-family: 'Karla', sans-serif;
+}
+.intro{
+
+color: gray;
+color: hsl(218, 22%, 67%);
+font-size: 13px;
+padding-bottom: 20px;
+
+}
+h2{
+  margin: 0;
+  color:  cyan;
+color: hsl(179, 62%, 43%);
+}
+h4{
+  color: #FFFF00;
+
+  color:  hsl(71, 73%, 54%);
+}
+.top{
+  background-color: white;
+  width: 400px;
+  height: 150px;
+  margin-top: 200px;
+  margin-left: 450px;
+
+
+
+
+
+
+}
+.middle{
+  background-color: cyan;
+  background-color: hsl(185, 62%, 43%);
+
+  width: 200px;
+  height: 210px;
+  position: absolute;
+  left: 450px;
+
+
+
+}
+.bottom{
+  background-color: cyan;
+  background-color: hsl(179, 62%, 43%);
+  width:200px;
+  height: 210px;
+position: absolute;
+left: 650px;
+
+
+
+
+}
+.why{
+  color: white;
+  font-size:12px;
+  text-align: left;
+margin: 0;
+margin-left: 20px;
+}
+.why1{
+  color: white;
+  font-size: 12px;
+  text-align: left;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.monthly{
+  color: white;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.des{
+  color: white;
+  font-size: 13px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+
+}
+.i{
+  color: white;
+  text-decoration: bold;
+  display: inline;
+margin-left: 20px;
+}
+.final{
+  color:white;
+  font-size: 10px;
+  display: inline;
+}
+.btn {
+  background: #bbd934;
+  background-image: -webkit-linear-gradient(top, #bbd934, #8eb82b);
+  background-image: -moz-linear-gradient(top, #bbd934, #8eb82b);
+  background-image: -ms-linear-gradient(top, #bbd934, #8eb82b);
+  background-image: -o-linear-gradient(top, #bbd934, #8eb82b);
+  background-image: linear-gradient(to bottom, #bbd934, #8eb82b);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Karla,sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.attribution{
+  font-size: 11px;
+  margin-bottom: 10px;
+}
